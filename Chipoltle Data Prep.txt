@@ -1,0 +1,12 @@
+
+
+Consistently labeld each restaurant
+Grouped restaurants into high level categories
+Created numeric values for both the restaurants and high level categories
+
+Created an ID field
+Records with less than 80% survey completness were dropped (31 records)
+
+
+importanttaste replaced blanks with 5 because all answers were only 4 or 5 and majority were 5
+chipotleconvenient, chipotleprice replaced 6 with 5
